@@ -1,4 +1,4 @@
-<h1> Cara Pembuatan Snake Game </h1>
+**Cara Pembuatan Snake Game**
 
 **Buat Layar:**
 Untuk membuat layar menggunakan _Pygame_, menggunakan fungsi _display.set_mode()_. Selain itu, juga menggunakan metode _init()_ dan _quit()_ untuk menginisialisasi dan menghapus semua inisialisasi di awal dan akhir kode. Metode _update()_ digunakan untuk memperbarui setiap perubahan yang dibuat pada layar. Ada metode lain yaitu flip() yang bekerja mirip dengan fungsi update(). Perbedaannya adalah metode update() hanya memperbarui perubahan yang dibuat (namun, jika tidak ada parameter yang diteruskan, memperbarui layar lengkap) tetapi metode flip() mengulang layar lengkap lagi.
