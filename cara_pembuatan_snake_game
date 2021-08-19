@@ -1,5 +1,3 @@
-<h1>Cara Pembuatan Game Snake</h1>
-
 **Buat Layar:**
 Untuk membuat layar menggunakan _Pygame_, menggunakan fungsi _display.set_mode()_. 
 Selain itu, juga menggunakan metode _init()_ dan _quit()_ untuk menginisialisasi dan menghapus semua inisialisasi di awal dan akhir kode. 
