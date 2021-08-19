@@ -1,5 +1,14 @@
 # KelompokH-Final Project : Snake Game
 
+Anggota kelompok grup H : 
+
+1. Alifia Rizkiana
+2. Ina Octaviyani
+3. Faiza Latifah
+4. Dhiya El Haqq Awalludin
+5. Dyah Monika Hastono
+
+
 **Snake Game**
 
 Aplikasi permainan ular menggunakan _pygame_. Terinspirasi dari permainan ular yang ada di awal perkembangan teknologi secara _mobile_ dengan membuat permainan tersebut menggunakan bahasa python dan _library Pygame_. 
