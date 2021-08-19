@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #import library
 import pygame
 import time
@@ -165,10 +159,3 @@ def gameLoop():
  
  
 gameLoop()
-
-
-# In[ ]:
-
-
-
-
